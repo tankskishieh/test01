@@ -1,3 +1,1 @@
-# test01
-# test01
-# test01
+# Web posts Downloader for Net*** 3.0 system only.
